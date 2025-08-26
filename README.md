@@ -1,4 +1,7 @@
-## Hi there 👋
+## About whosmitri !!
+
+<p>still working on it...</p>
+<p>but i like strawberry, chocolate and stars!</p>
 
 <!--
 **whosmitri/whosmitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
