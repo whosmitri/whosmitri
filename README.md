@@ -16,7 +16,8 @@
 ## 🕹️ Working In...
 
 ## 🪄 Technologies
-![Static Badge](https://img.shields.io/badge/OS-Linux-a3b18a?logo=linux&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/OS-Linux-a3b18a?logo=linux&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Shell-bash-a3b18a?logo=gnubash&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Editor-VS%20Code-a3b18a) ![Static Badge](https://img.shields.io/badge/Code-Python-a3b18a?logo=python&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Code-C-a3b18a?logo=c&logoColor=%23fff)
+ ![Static Badge](https://img.shields.io/badge/Code-PHP-a3b18a?logo=php&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Code-HTML-a3b18a?logo=html5&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Code-CSS-a3b18a?logo=css&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Code-JavaScript-a3b18a?logo=javascript&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Tools-MySQL-a3b18a?logo=mysql&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Tools-Git-a3b18a?logo=git&logoColor=%23fff) ![Static Badge](https://img.shields.io/badge/Tools-GitHub-a3b18a?logo=github&logoColor=%23fff)
 
 ## 🎓 Graduation
 Tecnologia em Análise e Desenvolvimento de Sistemas, SENAI-SP, 2025-2026  
