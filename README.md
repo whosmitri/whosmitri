@@ -25,13 +25,13 @@ Tecnologia em Análise e Desenvolvimento de Sistemas, SENAI-SP, 2025-2026
 ## 🎵 Languages
 Português (Native) | English (Intermediary) | Spanish (Fluent)
 
-<!--
-<p>but i like strawberry, chocolate and stars!</p>
+## 💻 Call Me
 
-─── Análise e Desenvolvimento de Sistemas, SENAI-SP, 2025-2026  
-
-My LinkedIN:
 * [LinkedIn](https://linkedin/in/gaisanicalle)
+* [Main Mail](hellomitrii@gmail.com)
+* [Secondary Mail](glizqc06@gmail.com)
+
+<!--
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
