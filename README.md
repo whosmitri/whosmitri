@@ -27,7 +27,7 @@ Português (Native) | English (Intermediary) | Spanish (Fluent)
 
 ## 💻 Call Me
 
-* [LinkedIn](https://linkedin/in/gaisanicalle)
+* [LinkedIn](https://linkedin/in/mitricalle)
 * [Main Mail](hellomitrii@gmail.com)
 * [Secondary Mail](glizqc06@gmail.com)
 
