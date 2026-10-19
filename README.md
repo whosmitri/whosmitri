@@ -39,11 +39,11 @@ Hiii, I'm Dmitri, but everyone calls me **Mitri**. I like to explore systems (es
 <p> <a href="https://github.com/whosmitri/lumees-yapplant"><img src="https://img.shields.io/badge/lumees_yapplant-d?style=for-the-badge&logo=github&labelColor=%233A410F&color=%233A410F" height=18></a>
 : An IoT ecosystem with AI and an app to help me take care of my lil plants. </p>
 
-<p> <a href="https://github.com/whosmitri/QuantumHub-projInt25sem2"><img src="https://img.shields.io/badge/quantumhub-d?style=for-the-badge&logo=github&labelColor=%233A410F&color=%233A410F" height=18></a>
-: A platform with smart recommendations for learning paths because I’m indecisive, that's it!! </p>
+<p> <a href="https://github.com/whosmitri/o-leitor"><img src="https://img.shields.io/badge/o_leitor-d?style=for-the-badge&logo=github&labelColor=%233A410F&color=%233A410F" height=18></a>
+: A simple mobile app for reading PDFs. </p>
 
-<p> <a href="https://github.com/whosmitri/SimpleStockFlow"><img src="https://img.shields.io/badge/simplestockflow-d?style=for-the-badge&logo=github&labelColor=%233A410F&color=%233A410F" height=18></a>
-: A simple desktop system for inventory management. </p>
+<p> <a href="https://github.com/whosmitri/syspulse"><img src="https://img.shields.io/badge/syspulse-d?style=for-the-badge&logo=github&labelColor=%233A410F&color=%233A410F" height=18></a>
+: A Bash tool to monitor a Linux system and do backups. </p>
 </td>
 
 <td align="center" valign="middle" width="30%">
